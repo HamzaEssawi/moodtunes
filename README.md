@@ -5,7 +5,7 @@
 ![Spotify](https://img.shields.io/badge/Spotify-API-1DB954)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-MoodTunes creates personalized Spotify playlists based on how you feel. Just describe your mood, and get a custom playlist instantly!
+MoodTunes creates personalized Spotify playlists based on how you feel. Just describe your mood, and get a custom playlist instantly!!
 
 ## ✨ Features    
 
