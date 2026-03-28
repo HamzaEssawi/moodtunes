@@ -1,4 +1,4 @@
-# 🎵 MoodTunes - AI-Powered Spotify Playlist Generator
+# 🎵 MoodTunes - AI-Powered Spotify Playlist Generator  
 
 ![Next.js](https://img.shields.io/badge/Next.js-15-black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
