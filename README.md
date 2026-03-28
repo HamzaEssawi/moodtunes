@@ -7,7 +7,7 @@
 
 MoodTunes creates personalized Spotify playlists based on how you feel. Just describe your mood, and get a custom playlist instantly!
 
-## ✨ Features
+## ✨ Features    
 
 - 🎨 **Mood Color Orb** - Animated orb that changes color with your mood
 - 🎵 **Real Spotify Search** - Fetches actual songs from Spotify
